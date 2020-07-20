@@ -41,11 +41,7 @@ Pod::Spec.new do |spec|
   spec.source_files  = 'SPTestThirdSDK.framework/Headers/*.{h}'
   spec.exclude_files = "Classes/Exclude"
   spec.ios.vendored_frameworks = 'SPTestThirdSDK.framework'
-  spec.dependency 'AFNetworking'
-  spec.dependency 'YYModel'
-  spec.dependency 'JRDB'
-  spec.dependency 'RACSRWebSocket', '~> 1.1.3'
-  spec.dependency 'FreeStreamer'
+
   spec.requires_arc = true
   
   # spec.public_header_files = "Classes/**/*.h"
@@ -61,6 +57,11 @@ Pod::Spec.new do |spec|
 
   # spec.library   = "iconv"
   spec.libraries = "c++", "z"
+  spec.dependency 'AFNetworking'
+  spec.dependency 'YYModel'
+  spec.dependency 'JRDB'
+  spec.dependency 'RACSRWebSocket', '~> 1.1.3'
+  spec.dependency 'FreeStreamer'
 
   # spec.requires_arc = true
 
