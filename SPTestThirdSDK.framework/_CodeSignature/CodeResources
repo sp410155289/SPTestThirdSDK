@@ -8,10 +8,6 @@
 		<data>
 		4XmXsPAEadLsdFq1e8GY1+GiOgg=
 		</data>
-		<key>Headers/abc.h</key>
-		<data>
-		rAhiYZarqErM8uWOgvZCM0RPT58=
-		</data>
 		<key>Headers/test.h</key>
 		<data>
 		D3a7lba9Ff7604ohHCD3h3r2Dt4=
@@ -32,17 +28,6 @@
 			<key>hash2</key>
 			<data>
 			DGfy9HXZzhhE8uZS1cKwaLRSCAQHK02ZZ8AJw8uulJo=
-			</data>
-		</dict>
-		<key>Headers/abc.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rAhiYZarqErM8uWOgvZCM0RPT58=
-			</data>
-			<key>hash2</key>
-			<data>
-			oTMM33gh1Z3yqBrIQE/Bs2RQJXJj0L5+jvpkM/ls49c=
 			</data>
 		</dict>
 		<key>Headers/test.h</key>
